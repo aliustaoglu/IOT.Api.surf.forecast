@@ -1,0 +1,18 @@
+{
+  "name": "surf.forecast",
+  "version": "1.0.0",
+  "description": "Surf forecast json",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "surf",
+    "forecast"
+  ],
+  "author": "Cüneyt Aliustaoğlu",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.137.0"
+  }
+}
